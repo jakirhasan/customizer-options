@@ -9,7 +9,7 @@ $panel_to_section = array(
 
 		array(
 			'id'              => 'header_setting',
-			'title'           => esc_html__( 'Header Settings', 'themeum-core' ),
+			'title'           => esc_html__( 'Header Setting', 'themeum-core' ),
 			'description'     => esc_html__( 'Header Settings', 'themeum-core' ),
 			'priority'        => 10,
 			// 'active_callback' => 'is_front_page',
