@@ -22,7 +22,7 @@ $panel_to_section = array(
 					'default'  => 'solid',
 					'choices'  => array(
 						'transparent' => esc_html( 'Transparent Header', 'themeum-core' ),
-						'solid' => esc_html( 'Solid Header', 'themeum-core' ),
+						'solid' => esc_html( 'Solid Header', 'themeum-coresdsd' ),
 					)
 				),
 				array(
