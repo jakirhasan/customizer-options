@@ -16,7 +16,7 @@ $panel_to_section = array(
 			'fields'         => array(
 				array(
 					'settings' => 'head_style',
-					'label'    => esc_html__( 'Select Header Style', 'themeum-core' ),
+					'label'    => esc_html__( 'Select Header Style', 'themeudfffm-core' ),
 					'type'     => 'select',
 					'priority' => 10,
 					'default'  => 'solid',
