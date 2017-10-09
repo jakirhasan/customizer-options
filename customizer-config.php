@@ -9,7 +9,7 @@ $panel_to_section = array(
 
 		array(
 			'id'              => 'header_setting',
-			'title'           => esc_html__( 'Header Setting', 'themeum-core' ),
+			'title'           => esc_html__( 'Header Setting mackbook', 'themeum-core' ),
 			'description'     => esc_html__( 'Header Settings', 'themeum-core' ),
 			'priority'        => 10,
 			// 'active_callback' => 'is_front_page',
@@ -73,8 +73,8 @@ $panel_to_section = array(
 					'subtitle'  => __('You will need to generate a Google API key to use this feature. Please visit: https://developers.google.com/fonts/docs/developer_api#Auth', 'themeum-core'),
 					'type'     => 'text',
 					'priority' => 10,
-					
-				),				
+
+				),
 			)//fields
 		),//header_setting
 
@@ -121,10 +121,10 @@ $panel_to_section = array(
 					'type'     => 'text',
 					'priority' => 10,
 					'default'  => 'Starter Pro',
-				),				
+				),
 			)//fields
 		),//logo_setting
-		
+
 		array(
 			'id'              => 'sub_header_banner',
 			'title'           => esc_html__( 'Sub Header Banner', 'themeum-core' ),
@@ -712,7 +712,7 @@ $panel_to_section = array(
 					'type'     => 'title',
 					'priority' => 10,
 				),
-				
+
 				array(
 					'settings' => 'button_bg_color',
 					'label'    => esc_html__( 'Background Color', 'themeum-core' ),
