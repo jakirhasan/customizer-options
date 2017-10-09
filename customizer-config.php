@@ -16,13 +16,13 @@ $panel_to_section = array(
 			'fields'         => array(
 				array(
 					'settings' => 'head_style',
-					'label'    => esc_html__( 'Select Header Style', 'themeudfffm-core' ),
+					'label'    => esc_html__( 'Select Header Style', 'themeum-core' ),
 					'type'     => 'select',
 					'priority' => 10,
 					'default'  => 'solid',
 					'choices'  => array(
 						'transparent' => esc_html( 'Transparent Header', 'themeum-core' ),
-						'solid' => esc_html( 'Solid Header', 'themeum-coresdsd' ),
+						'solid' => esc_html( 'Solid Header', 'themeum-core' ),
 					)
 				),
 				array(
