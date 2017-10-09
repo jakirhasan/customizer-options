@@ -9,19 +9,19 @@ $panel_to_section = array(
 
 		array(
 			'id'              => 'header_setting',
-			'title'           => esc_html__( 'Header Setting', 'themeum-core' ),
+			'title'           => esc_html__( 'Header Settdfjhdjghing', 'themeum-core' ),
 			'description'     => esc_html__( 'Header Settings', 'themeum-core' ),
 			'priority'        => 10,
 			// 'active_callback' => 'is_front_page',
 			'fields'         => array(
 				array(
 					'settings' => 'head_style',
-					'label'    => esc_html__( 'Select Header Style', 'themeum-core' ),
+					'label'    => esc_html__( 'Select Heasdsdfder Style', 'themeum-core' ),
 					'type'     => 'select',
 					'priority' => 10,
 					'default'  => 'solid',
 					'choices'  => array(
-						'transparent' => esc_html( 'Transparent Header', 'themeum-core' ),
+						'transparent' => esc_html( 'Transparent Hccxeader', 'themeum-core' ),
 						'solid' => esc_html( 'Solid Header', 'themeum-core' ),
 					)
 				),
